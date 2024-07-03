@@ -1,8 +1,7 @@
-Here's a README file for the project:
-
+#QuadB-Tech-React-To-Do-Application
 ---
 
-# Simple React To-Do Application
+## Simple React To-Do Application
 
 This is a simple To-Do application built with React and Redux. The application allows users to add, view, edit, and delete tasks. It demonstrates the use of functional components, React hooks, and Redux for state management.
 
@@ -129,6 +128,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Redux](https://redux.js.org/)
 - [Create React App](https://create-react-app.dev/)
 
----
 
-Feel free to customize this README file further based on any additional features or details specific to your project.
