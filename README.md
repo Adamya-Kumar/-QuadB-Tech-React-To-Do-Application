@@ -1,4 +1,4 @@
-#QuadB-Tech-React-To-Do-Application
+# QuadB-Tech-React-To-Do-Application
 ---
 
 ## Simple React To-Do Application
